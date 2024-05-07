@@ -2,7 +2,7 @@
 
 ### 1 - Visibilidade do status do sistema
 
-![img1](https://github.com/kalil004/Bertoti/blob/d54032e8907952c75d85186627c25d1a7a9aae63/ihc_atual/img/1.png)
+![img1]()
 
 O site da SHEIN além de destacar que o produto está fora de estoque, impossibilitando dele ser adicionado ao carrinho, também é possível ver as medidas da peça em questão.
 ---
