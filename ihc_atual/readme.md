@@ -18,8 +18,11 @@ O site do Airbnb segue um fluxo igual ao da vida real para reservar os lugares, 
 ---
 
 ### 3 - Controle e Liberdade do Usuário
+<p align= center>
+<img src= 'https://github.com/kalil004/Bertoti/blob/73d11022c33611c0d1d51aefaa3803a3cab8ccf8/ihc_atual/img/H3.png'>
+</p>
 
-
+O player do Youtube dá total liberdade sobre os vídeos ao usuário, permitindo-o que ele possa pausar, reproduzir, pular o tempo do mesmo, ativar legendas, alterar a qualidade e acelerar a velocidade de reprodução do vídeo.
 
 ---
 
