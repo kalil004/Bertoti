@@ -1,10 +1,10 @@
 # Usabilidades Heurísticas
 
 ### 1 - Visibilidade do status do sistema
-
-![img1]()
-
-O site da SHEIN além de destacar que o produto está fora de estoque, impossibilitando dele ser adicionado ao carrinho, também é possível ver as medidas da peça em questão.
+<p align= center>
+<img src= 'https://github.com/kalil004/Bertoti/blob/67f25b1fe63004d6adeabb8bcb1906dcafd8b5ff/ihc_atual/img/H1.png'>
+</p>
+Após uma captura de tela, o Windows notifica que a imagem capturada foi salva nos arquivos do computador e copiada para a área de transferência.
 ---
 
 ### 2 - Consenso entre o sistema e a vida real
