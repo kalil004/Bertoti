@@ -4,7 +4,7 @@
 
 ![img1]()
 
-O site da SHEIN além de destacar que o produto está fora de estoque, impossibilitando dele ser adicionado ao carrinho, também é possível ver as medidas da peça em questão.
+Após uma captura de tela, o Windows notifica que a imagem capturada foi salva nos arquivos do computador e copiada para a área de transferência.
 ---
 
 ### 2 - Consenso entre o sistema e a vida real
