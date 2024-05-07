@@ -27,10 +27,20 @@ O player do Youtube dá total liberdade sobre os vídeos ao usuário, permitindo
 ---
 
 ### 4 - Consistências e padrões
+<p align=center>
+<img src='https://github.com/kalil004/Bertoti/blob/f050b05c13d4b2c424a1c60b12d68c7d81f6bdf0/ihc_atual/img/4.png'>
+</p>
+
+O Gmail segue padrões consistentes de design em toda a plataforma, como o uso de ícones familiares para ações como "Arquivar", "Excluir" e "Responder".
 
 ---
 
 ### 5 - Prevenção de erros
+<p align=center>
+<img src='https://github.com/kalil004/Bertoti/blob/ff69515ff363b8cc6312619e7e4fd9581ef2f25c/ihc_atual/img/5.png'>
+</p>
+
+Ao tentar criar uma conta no Google, ele notifica caso esteja faltando algum dado solicitado no cadastro para prevenir erros no sistema.
 
 ---
 
