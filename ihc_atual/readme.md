@@ -5,13 +5,21 @@
 <img src= 'https://github.com/kalil004/Bertoti/blob/67f25b1fe63004d6adeabb8bcb1906dcafd8b5ff/ihc_atual/img/H1.png'>
 </p>
 Após uma captura de tela, o Windows notifica que a imagem capturada foi salva nos arquivos do computador e copiada para a área de transferência.
+
 ---
 
 ### 2 - Consenso entre o sistema e a vida real
+<p align= center>
+<img src= 'https://github.com/kalil004/Bertoti/blob/e71dcfd36b0a47ac6c5bdca52b4e10d434a4a350/ihc_atual/img/2.png'>
+</p>
+
+O site do Airbnb segue um fluxo igual ao da vida real para reservar os lugares, desde selecionar as datas de check-in e check-out, até o número de pacientes e valor por noite.
 
 ---
 
 ### 3 - Controle e Liberdade do Usuário
+
+
 
 ---
 
