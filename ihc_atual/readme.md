@@ -54,10 +54,20 @@ Quando os usuários navegam pelo Pinterest, o site exibe automaticamente sugest�
 ---
 
 ### 7 - Flexibilidade e eficiência de uso
+<p align=center>
+<img src='https://github.com/kalil004/Bertoti/blob/19c0368a43a64d23dc7e1aaec0c84ef076b35b71/ihc_atual/img/7.png'>
+</p>
+
+O Trello permite aos usuários personalizar seus quadros, listas e cartões de acordo com suas necessidades, tornando a organização de projetos mais flexível e eficiente.
 
 ---
 
 ### 8 - Design estético e minimalista
+<p align=center>
+<img src='https://github.com/kalil004/Bertoti/blob/19c0368a43a64d23dc7e1aaec0c84ef076b35b71/ihc_atual/img/7.png'>
+</p>
+
+O site da Apple apresenta um design minimalista, com amplo uso de espaço em branco, imagens de alta qualidade e uma navegação intuitiva, proporcionando uma experiência estética agradável para os usuários.
 
 ---
 
