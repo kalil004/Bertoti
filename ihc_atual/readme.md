@@ -45,6 +45,11 @@ Ao tentar criar uma conta no Google, ele notifica caso esteja faltando algum dad
 ---
 
 ### 6 - Reconhecimento em vez de memória
+<p align=center>
+<img src='https://github.com/kalil004/Bertoti/blob/a321b6ab183283ffa3e1aa229d61c5d8be3e8fd8/ihc_atual/img/6.png'>
+</p>
+
+Quando os usuários navegam pelo Pinterest, o site exibe automaticamente sugestões de pins com base nos interesses anteriores do usuário e nas atividades de navegação, ajudando-os a descobrir conteúdo relevante sem a necessidade de lembrar especificamente o que procurar.
 
 ---
 
