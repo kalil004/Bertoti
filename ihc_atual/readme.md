@@ -64,7 +64,7 @@ O Trello permite aos usuários personalizar seus quadros, listas e cartões de a
 
 ### 8 - Design estético e minimalista
 <p align=center>
-<img src='https://github.com/kalil004/Bertoti/blob/19c0368a43a64d23dc7e1aaec0c84ef076b35b71/ihc_atual/img/7.png'>
+<img src='https://github.com/kalil004/Bertoti/blob/bd2455dfd9ba3abc13c752bc0f34d129ebacd9dd/ihc_atual/img/8.png'>
 </p>
 
 O site da Apple apresenta um design minimalista, com amplo uso de espaço em branco, imagens de alta qualidade e uma navegação intuitiva, proporcionando uma experiência estética agradável para os usuários.
@@ -72,6 +72,11 @@ O site da Apple apresenta um design minimalista, com amplo uso de espaço em bra
 ---
 
 ### 9 - Ajudar os usuários a reconhecer, diagnosticar, e se recuperar dos erros
+<p align=center>
+<img src='https://github.com/kalil004/Bertoti/blob/bd2455dfd9ba3abc13c752bc0f34d129ebacd9dd/ihc_atual/img/H9.png'>
+</p>
+
+O Visual Studio Code detecta qualquer tipo de erro que impeça os programas de funcionarem, e ao passar o mouse por cima do erro destacado, é oferecida uma explicação sobre o erro em questão e sugestões para resolvê-lo.
 
 ---
 
