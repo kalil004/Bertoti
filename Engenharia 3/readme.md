@@ -1,6 +1,6 @@
 ## Strategy
 
-![strategy](https://github.com/kalil004/Bertoti/blob/0824b53c6cd3752e52920b17d062c3396786d272/Engenharia%203/strategy/strategyuml.png)
+![strategy](https://github.com/kalil004/Bertoti/blob/4f71b700440fd7b9827c8a63f369cfbbef1b11ce/Engenharia%203/strategy/strategyuml.png)
 
 ## Observer
 
